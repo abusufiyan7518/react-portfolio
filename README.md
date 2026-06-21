@@ -19,8 +19,8 @@ CSS3
 JavaScript
 
 📸 Preview
-![Portfolio Preview](Preview.jpg)
-
+![Portfolio Preview](/src/assets/Preview.jpg)
+src\
 
 👨‍💻 Author
 
