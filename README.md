@@ -2,6 +2,8 @@
 
 A modern and responsive portfolio website built using React and Vite to showcase my projects, skills, certifications, and professional journey.
 
+
+
 🔥 Features
 
 Responsive Design
@@ -18,6 +20,8 @@ Contact Information
 
 Fast Performance with Vite
 
+
+
 🛠️ Tech Stack
 
 React.js
@@ -30,8 +34,12 @@ CSS3
 
 JavaScript
 
+
+
+
 📸 Preview
 ![Portfolio Preview](/src/assets/Preview.jpg)
+
 
 
 👨‍💻 Author
